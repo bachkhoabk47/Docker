@@ -2,7 +2,7 @@
 
 Step by step
 
-Bước 1: Tạo một container từ images Centos 7 
+Bước 1: Tạo một container từ images Centos 7  
 Bước 2: Truy cập vào container và down load gói full liferay-portal về  
 wget http://www.liferay.com/downloads/liferay-portal/available-releases  
 Bước 3: Cài đặt java  
